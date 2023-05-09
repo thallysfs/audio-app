@@ -7,7 +7,7 @@ Descomplicando as funções de áudio no seu app com Expo Av - [Rocketseat](http
 
 ## Bibliotecas
 
-:white_check_mark:	[]()
+:white_check_mark:	[Expo AV](https://docs.expo.dev/versions/latest/sdk/av/)
 
 ## Rodando
 > Entrar na pasta do projeto e executar: 
