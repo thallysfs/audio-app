@@ -1,5 +1,5 @@
 # audio-app
-Descomplicando as funções de áudio no seu app com Expo Av - [Rocketseat](https://www.youtube.com/watch?v=XLILd0R8btg&ab_channel=Rocketseat).
+Descomplicando as funções de áudio no seu app com Expo Av - [Rocketseat](https://docs.expo.dev/versions/latest/sdk/audio/).
 
 
 ## Requisitos
