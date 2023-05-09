@@ -17,7 +17,7 @@ Descomplicando as funções de áudio no seu app com Expo Av - [Rocketseat](http
 npm i 
 
 // executando APP
-expo start
+npx expo start
 ```
 
 # Screenshots
