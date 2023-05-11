@@ -35,6 +35,7 @@ export default function App() {
         const fileUri = recording.getURI();
 
         console.log(fileUri);
+        console.log(recording);
 
         setRecordingFileURI(fileUri);
         setRecording(null);
